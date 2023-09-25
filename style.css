@@ -1,0 +1,45 @@
+@import url(./fonts/fonts.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "StratosSkyeng", sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 700px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+}
+
+img {
+    margin-top: 50px;
+    width: 800px;
+    border-radius: 25px;
+}
+
+a {
+    display: block;
+    font-size: 25px;
+    margin: 50px;
+}
